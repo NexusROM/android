@@ -8,7 +8,7 @@ CyanogenMod
 
 初始化你的本地仓库:
 
-    repo init -u git://github.com/NexusRod/android.git -b android-5.0
+    repo init -u git://github.com/NexusROM/android.git -b android-5.0
 
 然后同步命令:
 
